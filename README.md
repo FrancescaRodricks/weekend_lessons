@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# weekend_lessons
+Sat-Sun Fun with Rspecs :)
+>>>>>>> ca5b1071b56d54e5d9f25f9340e1a2c03159b63a
