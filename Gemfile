@@ -38,6 +38,14 @@ gem 'jbuilder', '~> 2.5'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
+  gem 'wdm', '>= 0.1.0'
+  gem 'test-unit'
+  gem "factory_girl", "~> 4.2.0"
+  gem 'rspec-rails', '2.99.0'
+  gem 'faker'
+  gem 'guard-rspec', '4.5.0'
+  gem 'vcr', '~> 3.0', '>= 3.0.3'
+  gem 'webmock', '~> 2.3', '>= 2.3.2'
 end
 
 group :development do
